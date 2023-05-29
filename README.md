@@ -34,3 +34,8 @@ Then Navigate to the Frontend folder and then client folder and then run followi
 ```bash
 npm start
 ```
+## Sanpshot of the application
+![Screenshot 2023-05-28 225518](https://github.com/Programmer-Kishan/Web-Scrapping-Mini-Project/assets/69651170/ba49e17a-df50-41d2-9006-f9e3ec7da1a3)
+![Screenshot (4)](https://github.com/Programmer-Kishan/Web-Scrapping-Mini-Project/assets/69651170/9826bc01-cb86-4d74-9119-6db6575540f4)
+![Screenshot (5)](https://github.com/Programmer-Kishan/Web-Scrapping-Mini-Project/assets/69651170/f1038d03-26fe-460d-b939-8e40a055c254)
+![Screenshot (17)](https://github.com/Programmer-Kishan/Web-Scrapping-Mini-Project/assets/69651170/e4af851f-d9af-4244-8de4-744a84f0f95c)
