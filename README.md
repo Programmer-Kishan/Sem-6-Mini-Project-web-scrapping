@@ -42,5 +42,5 @@ npm start
 
 ## Contributors on the project
 <a href="https://github.com/remarkablemark">
-  <img src="https://github.com/remarkablemark.png?size=50">
+  <img src="https://avatars.githubusercontent.com/u/126700542?v=4">
 </a>
