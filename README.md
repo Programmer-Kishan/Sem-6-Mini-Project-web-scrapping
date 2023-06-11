@@ -39,16 +39,3 @@ npm start
 ![Screenshot (4)](https://github.com/Programmer-Kishan/Web-Scrapping-Mini-Project/assets/69651170/9826bc01-cb86-4d74-9119-6db6575540f4)
 ![Screenshot (5)](https://github.com/Programmer-Kishan/Web-Scrapping-Mini-Project/assets/69651170/f1038d03-26fe-460d-b939-8e40a055c254)
 ![Screenshot (17)](https://github.com/Programmer-Kishan/Web-Scrapping-Mini-Project/assets/69651170/e4af851f-d9af-4244-8de4-744a84f0f95c)
-
-## Contributors on the project
-<a href="https://github.com/SAHILKOLI810">
-  <img src="https://github.com/SAHILKOLI810.png?size=10">
-</a>
-
-<a href="https://github.com/ronakjn2912">
-  <img src="https://github.com/ronakjn2912.png?size=50">
-</a>
-
-<a href="https://github.com/vireshkoli">
-  <img src="https://github.com/vireshkoli.png?size=10">
-</a>
