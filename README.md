@@ -42,13 +42,15 @@ npm start
 
 ## Contributors on the project
 <a href="https://github.com/remarkablemark">
-  <img src="https://avatars.githubusercontent.com/u/126700542??s=460&v=4">
+  <img src="https://avatars.githubusercontent.com/u/126700542??s=260&v=4">
 </a>
 
 <a href="https://github.com/remarkablemark">
-  <img src="https://avatars.githubusercontent.com/u/112118180?v=4">
+  <img src="https://avatars.githubusercontent.com/u/112118180?s=260&v=4">
 </a>
 
 <a href="https://github.com/remarkablemark">
-  <img src="https://avatars.githubusercontent.com/u/108786962?s=460&v=4">
+  <img src="https://avatars.githubusercontent.com/u/108786962?s=260&v=4">
 </a>
+
+[![](https://github.com/remarkablemark.png?size=50)](https://github.com/remarkablemark)
