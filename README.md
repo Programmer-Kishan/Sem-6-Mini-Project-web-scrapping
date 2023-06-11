@@ -42,7 +42,7 @@ npm start
 
 ## Contributors on the project
 <a href="https://github.com/SAHILKOLI810">
-  <img src="https://github.com/SAHILKOLI810.png?size=50">
+  <img src="https://github.com/SAHILKOLI810.png?size=10">
 </a>
 
 <a href="https://github.com/ronakjn2912">
@@ -50,5 +50,5 @@ npm start
 </a>
 
 <a href="https://github.com/vireshkoli">
-  <img src="https://github.com/vireshkoli.png?size=50">
+  <img src="https://github.com/vireshkoli.png?size=10">
 </a>
