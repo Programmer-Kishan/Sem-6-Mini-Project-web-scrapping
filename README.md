@@ -41,16 +41,14 @@ npm start
 ![Screenshot (17)](https://github.com/Programmer-Kishan/Web-Scrapping-Mini-Project/assets/69651170/e4af851f-d9af-4244-8de4-744a84f0f95c)
 
 ## Contributors on the project
-<a href="https://github.com/remarkablemark">
-  <img src="https://avatars.githubusercontent.com/u/126700542??s=260&v=4">
+<a href="https://github.com/SAHILKOLI810">
+  <img src="https://github.com/SAHILKOLI810.png?size=50">
 </a>
 
-<a href="https://github.com/remarkablemark">
-  <img src="https://avatars.githubusercontent.com/u/112118180?s=260&v=4">
+<a href="https://github.com/ronakjn2912">
+  <img src="https://github.com/ronakjn2912.png?size=50">
 </a>
 
-<a href="https://github.com/remarkablemark">
-  <img src="https://avatars.githubusercontent.com/u/108786962?s=260&v=4">
+<a href="https://github.com/vireshkoli">
+  <img src="https://github.com/vireshkoli.png?size=50">
 </a>
-
-[![](https://github.com/remarkablemark.png?size=50)](https://github.com/remarkablemark)
